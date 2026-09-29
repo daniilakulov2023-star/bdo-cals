@@ -3,6 +3,7 @@ import customtkinter as ctk
 
 from recipes import RECIPES
 
+CURRENT_VERSION = "1.0.0"
 
 RANK_COLORS = {
     "gold":  "#c9a227",
